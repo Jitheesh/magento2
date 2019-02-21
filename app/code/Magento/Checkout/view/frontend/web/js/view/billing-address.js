@@ -201,7 +201,6 @@ function (
                 this.isAddressDetailsVisible(true);
             }
         },
-
         /**
          * Restore billing address
          */
